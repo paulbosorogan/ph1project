@@ -3,7 +3,7 @@
         {
             "id": 1,
             "title": "Scrambled eggs on toast with bacon",
-            "class": "breakfast",
+            "meal": "breakfast",
             "image": "Personal image?",
             "ingredients": ["2 large eggs", "toast or english muffin", "a pinch of salt", "a pinch of pepper", "2 tablespoons of butter", "2-3 slices of cooked bacon", "optional: chopped parsley"],
             "description": "In one bowl, whisk your eggs with the pinch of salt and pepper. Place your pan on your stove and turn your heat to low. Add your whisked eggs and stir into a figure 8 with your spatula. Stir constantly. When the eggs start to thicken, take the eggs from the stove and  serve immediatly over toast. Serve it with bacon on the side or crumble the bacon and sprinkle on top. Optional: sprinkel some fresh or dried parsley on top for a final garnish. Enjoy!"
@@ -12,7 +12,7 @@
         {
             "id": 2,
             "title": "Avocado toast with poached eggs and tomatoes",
-            "class":"breakfast",
+            "meal":"breakfast",
             "image": "Photo",
             "ingredients": ["1-2 ripe avocados", "2 large eggs", "1 slice of sourdough bread toasted", "a pinch of salt", "a pinch of pepper", "juice from 1/2 a lime", "1 tablespoon of vinegar", "diced tomatoes"],
             "description": "Cut your avocados in half and throw away the seed. With a spoon or fork, scoop out the avocado into a bowl. Add salt, pepper and the lime juice and smash with a fork until your desired consistency. In a small pot add water and one tablespoon of vinegar and warm it up. Do not bring it up to a boil! You want the water to be warm but not too hot. In order to avoid egg shells or broken yolks, crack the eggs in idividual bowls. When the water stars to simmer, with a wooden spoon create a vortex in the pot and gently drop the egg in the middle. Let it cook for maximum 3 minutes. Once the egg white becomes opaque, take it out and place on a paper towel to extract the excess moisture. Repeat for the other egg. After eggs are cooked. Take your fresh toasted bread and spread the avocado mash. On top place the poached eggs. Optional: you can add extra protein with some cooked bacon. Serve with diced tomatoes for some extra freshness. Enjoy!"
@@ -20,7 +20,7 @@
         {
             "id": 3,
             "title": "Pancakes with Nutella",
-            "class":"breakfast",
+            "meal":"breakfast",
             "image": "Photo",
             "ingredients": ["pancake mix", "water","Nutella (add to taste)","2 tablespoons of butter", "optional: banana"],
             "description": "For this recipe you'll need to prepare the pancake mix according to the package instructions. In a non-stick pan, warm up your butter. Add a scoop of pancake mix and let it cook slowly. Do not walk away from the stove! Watch for any air bubbles, that's when you'll know it's time to flip the pancake. Repeat for each pancake until mix is finished. Serve with Nutella and optional if you want, you can add some sliced bananas for more flavor."
@@ -28,7 +28,7 @@
         {
             "id": 4,
             "title": "Tagliatele with tomato sauce, burrata and prosciutto",
-            "class":"lunch",
+            "meal":"lunch",
             "image": "Photo",
             "ingredients": ["measure of tagliatele for 2 persons", "2 cups tomato sauce", "1 burrata", "a few proscitto slices", "1 small fine chopped onion", "2 finely chopped cloves of garlic", "2 tablespoons of olive oil"],
             "description": "Boil pasta according to the package instructions. In the meantime, in a pan add your olive oil and fry your chopped onion and garlic. After the onion becomes translucent, add the tomato sauce. At the moment, taste and add spices to your own liking. With 2 minutes before their cooking time, strain pasta (don't forget to reserve some of that pasta water and add it to the sauce) and add it in the pan to let it cook more in the tomato sauce. After 2-3 minutes, remove pasta from the stove and plate in a circular shape that resembles a nest. In the middle add a few slices of prosciutto and on top of that half of the burrata ball. Be careful as the burrata is very creamy in consistency. On top of that you can sprinkle some parsley or crack some fresh pepper. Enjoy! "
@@ -36,7 +36,7 @@
         {
             "id": 5,
             "title": "Chicken sandwich and cole slaw",
-            "class":"lunch",
+            "meal":"lunch",
             "image": "Photo",
             "ingredients": ["1 chicken breast","sandwich buns of your liking","cole slaw","1 egg","2 tablespoons of flour","2 tablespoons of breadcrumbs or panko","2 tablespoons of light mayo", "a pinch of salt","a pinch of pepper","a pinch of paprika","a pinch of garlic powder", "neutral cooking oil"],
             "description": "Start by butterflying your chicken and flatting it out. You wanna make sure the 2 pieces are the same size and thickness as much as possible for an even cooking time. In a bowl, beat the egg with some spices. In 2 other bowls, mix the flour with spices and the breadcrumbs or panko with the spices you enjoy. Take the chicken, coat it in a light layer of flour, then go throught he egg wash and in the end roll it in the breadcrumbs. Set aside and repeat the same for the other piece. In a pan, heat your cooking oil until hot on a low flame, we don't want it to burn. Fry your chicken 3 per side. After it's done, place it on a paper towel and sprinkle some salt on top. Now you are going to butter the buns and toast them. Add a light layer of mayo, place your chicken cutlet and place some cole slaw on top. Place the bun on top and serve right away. Enjoy!"
@@ -44,7 +44,7 @@
         {
             "id": 6,
             "title": "Tuna steak with mashed potatoes and asparagus",
-            "class":"lunch",
+            "meal":"lunch",
             "image": "Photo",
             "ingredients": ["2 piece of fresh tuna steaks","diced golden potatoes","a hand of asparagus","2 tablespoons of olive oil","a pinch of pepper","a pinch of salt","2 tablespoons of butter","minced garlic"],
             "description": "Make sure you pat dry your tuna steaks and eliminate as much moisture as you can. You will season the steaks on both sides with salt and pepper. Feel free to add whatever additional spices you like. Boil the diced potatoes. After they are boiled, mash them with a fork and add the butter with spices. Pro tip: you can use the hand mixer for a smoother and fluffier consistency! In a separate pot, add 1 tablespoon of butter, garlic and sear your asparagus. Be careful not to overcook it. Add around 2 tablespoons of oil in a pan and let it heat up. Once the oil looks hot enough, add your steaks and let them cook for 2 minutes per side. Do not flip them before that! You want a nice seared side. After 2 minutes, you flip the steaks on the other side and cook for 2 more minutes. After they are done, set aside for 5 to 10 minutes. Plate up with the mashed potatoes and garlicky asparagus. Enjoy! "
@@ -52,7 +52,7 @@
         {
             "id": 7,
             "title": "Chicken butter masala",
-            "class":"dinner",
+            "meal":"dinner",
             "image": "Photo",
             "ingredients": ["1 lbs of chicken thighs","2 cups tomato sauce","1 cup of buttermilk","1/2 cup of cream or coconut milk","2 tablespoons of butter","a pinch of pepper","a pinch of salt","a pinch of paprika","1 teaspoon of garam masala", "1 teaspoon of curry powder", "2 finely chopped cloves of garlic","1 small fine chopped onion","1 cup of rice","optional: red onion slices"],
             "description": "For this recipe you can use either chicken thighs or breast. I prefer thighs for flavor. Cut them into cubes and marinate in buttermilk with spices for at least 10 minutes. In the meantime cook rice according to the package. After the chicken is marinated, fry it in a pan with a little bit of olive oil. Add the onion and garlic and the spices. After the onion is translucent and the garlic is fraguent, add the tomato sauce and stir. You can add 1 cup of water and let it simmer on low for 10-15 minutes. After that, add the cream and check for spices. Add to your liking. Let it on the stove on love for another 5 to 10 minutes. After it's done, you can serve it with rice. Optional: add some sliced red onion for more flavor. Enjoy!"
@@ -60,7 +60,7 @@
         {
             "id": 8,
             "title": "Gound beef tacos with sour cream",
-            "class":"dinner",
+            "meal":"dinner",
             "image": "Photo",
             "ingredients": ["1 lbs of ground beef", "a pinch of paprika","a pinch of ground cumin","a pinch of salt","a pinch of pepper","minced garlic","1/2 onion finely chopped","2 tablespoons of tomato puree","3 taco shells","2 tablespoons of sour cream","optional: cilantro"],
             "description": "Start by browning your meat in a pan. Add the chopped onion and then garlic. After 1-2 minutes, after the onion is cooked, add in the spices. Measure to your own liking. Once you can feel the aromatics, add the tomato puree and stir. You can add 1 cup of water and let it simmer on low until the water evaporaated to create more flavor. Heat your taco shells and once the meat is cooked, add 1-2 tablespoons in the shell. Top it with shredded cheese, lettuce, diced tomatoes, sour cream, hot sauce, or whatever you like in your tacos. Enjoy!"
@@ -68,7 +68,7 @@
         {
             "id": 9,
             "title": "Spinach wraps with chicken and sweet potato fries",
-            "class":"dinner",
+            "meal":"dinner",
             "image": "Photo",
             "ingredients": ["2 spinach wraps","leftover chicken","salad mix","sliced tomatoes","spicy mayo","frozen sweet fries"],
             "description": "Prepare the frozen sweet potato fries according to package in the airfryer. Take one wrap and heat it in a oiled pan. Flip both sides and make sure the wrap is not raw. Place the warmed up wrap on a wooden board and spread a thin layer of the spicy mayo. Add a hand of spring salad mix, the chicken cut into strips and sliced tomatoes. You can add salt and pepper on top of the tomatoes. Try to fold the wrap carefully so the ingredients don't slip out. Once the wrap is folded as a burrito, you can cut it in diagonal for a nicer presenation. Pro tip: add a toothpick to hold the wrap closed! Serve it with fries on the side. Enjoy!"
