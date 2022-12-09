@@ -20,4 +20,6 @@ Each card will have an `event listener` for `hover`/`mouse over` to change from 
 
 
 #Resources
-Background image source: https://img.freepik.com/premium-photo/ingredients-homemade-pizza-white-wooden-background_35641-2959.jpg?w=1380
+*Background image source: https://img.freepik.com/premium-photo/ingredients-homemade-pizza-white-wooden-background_35641-2959.jpg?w=1380
+
+*Styling and layout: www.w3schools.com
