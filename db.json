@@ -35,11 +35,11 @@
         },
         {
             "id": 5,
-            "title": "Chicken sandwich and cole slaw",
+            "title": "Pork cutlet with Japanese curry",
             "meal":"lunch",
             "image": "Photo",
-            "ingredients": ["1 chicken breast","sandwich buns of your liking","cole slaw","1 egg","2 tablespoons of flour","2 tablespoons of breadcrumbs or panko","2 tablespoons of light mayo", "a pinch of salt","a pinch of pepper","a pinch of paprika","a pinch of garlic powder", "neutral cooking oil"],
-            "description": "Start by butterflying your chicken and flatting it out. You wanna make sure the 2 pieces are the same size and thickness as much as possible for an even cooking time. In a bowl, beat the egg with some spices. In 2 other bowls, mix the flour with spices and the breadcrumbs or panko with the spices you enjoy. Take the chicken, coat it in a light layer of flour, then go throught he egg wash and in the end roll it in the breadcrumbs. Set aside and repeat the same for the other piece. In a pan, heat your cooking oil until hot on a low flame, we don't want it to burn. Fry your chicken 3 per side. After it's done, place it on a paper towel and sprinkle some salt on top. Now you are going to butter the buns and toast them. Add a light layer of mayo, place your chicken cutlet and place some cole slaw on top. Place the bun on top and serve right away. Enjoy!"
+            "ingredients": ["1 pork loin","1 egg","2 tablespoons of flour","2 tablespoons of breadcrumbs or panko", "a pinch of salt","a pinch of pepper","a pinch of paprika","a pinch of garlic powder", "neutral cooking oil", "Japanese curry mix","1 diced onion","2 large carrots diced","2 diced potatoes","1 scalion"],
+            "description": "Start by patting dry your pork slices to eliminate moisture so you'll get a crispy outside. Season the flour and panko for extra flavor. Roll the pork slice through flour, then the egg wash and finally in the panko. Fry until golden and set aside to cool off. In a pot add some cooking oil and saute your onion, carrots and potatoes. Add water and let simmer for 10 minutes. After the vegetables are cooked add 1/2 pack of Japanese curry and cook for another 2-3 minutes or until the consistency is creamy. Serve on top of white rice and place the pork cutlet on top. Optional: garnish with sliced scallion.  Enjoy!"
         },
         {
             "id": 6,
