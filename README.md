@@ -26,3 +26,5 @@ Styling: www.w3schools.com
 
 Layoyut: https://www.youtube.com/watch?v=z4wMSnrS0kE 
 Layout CSS Grid: https://www.youtube.com/watch?v=rV67qQahXAc
+
+Turned personal food pictures into links using: https://imgur.com/
