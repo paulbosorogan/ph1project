@@ -8,6 +8,7 @@ body {
     background-color: whitesmoke;
     display: flex;
     opacity: .9;
+    box-shadow: 5px 5px 10px lightgray;
 }
 .header h1{
     font-size: 65px;
@@ -27,8 +28,11 @@ body{
     padding: 40px;
     width: 60%;
     margin: 10rem auto 0 auto;
-    opacity: 0.9;
+    opacity: 1;
+    box-shadow: 5px 5px 10px lightgray;
+    
 }
+
 .initial_box img{
     height:250px;
 }
@@ -41,11 +45,12 @@ body{
 .bttn_box{
     width: 60%;
     margin: 10rem auto 0 auto;
-    padding: 30px;
+    padding: 25px;
     background-color: white;
     display: flex;
     justify-content: space-evenly;
     opacity: .9;
+    box-shadow: 5px 5px 10px lightgray;
     
 }
 .bttn_box h3{
@@ -65,6 +70,9 @@ body{
     font-size: 16px;
     border-radius: 5px;
 }
+.button:hover{
+    background-color: green;
+}
 
 .footer {
     width: 60%;
@@ -74,6 +82,7 @@ body{
     display: flex;
     justify-content: space-evenly;
     opacity: .9;
+    box-shadow: 5px 5px 10px lightgray;
 }
 .footer p{
     font-family: Arial, Helvetica, sans-serif;
@@ -84,13 +93,24 @@ body{
     border-radius: 5px;
     border: none;
     color: white;
-    padding: 10px 27px;
+    padding: 13px 30px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 15px;
+}
+.submit_bttn:hover{
+    background-color: green;
 }
 #email_address{
-    width: 35%;
+    width: 50%;
     height: 40px;
+}
+#card{
+    text-align: center;
+    padding: 1rem;
+    width: 15rem;
+    height: 25rem;
+    display: inline-grid;
+    box-shadow: 3px 2px lightgray;
 }
