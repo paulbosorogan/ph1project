@@ -5,11 +5,9 @@ Welcome to Paul's Cooking Blog - a demo website designed to inspire you with som
 Cooking! This has become a hobby and a great passion of mine ever since I joined university. If I can remember well, I was always attracted to the kitchen, but never really leaned into it as growing up in the countryside the boys were not expected to spend time cooking. That for sure changed once I left home and mommy's boy had to learn how to cook in order to survive. It became such a relaxing activity that I enjoy doing daily. Picture this: I sometimes bake cookies in order to snap from monotony! The proof is right here. The pictures used to present each recipe are provided by myself and you can find more on my cooking instagram account: www.instagram.com/paulxcooks.
 
 # Curriculum help
-This website was constructed inspired from the curriculum lab: 
-Toy Tale 
-source: https://learning.flatironschool.com/courses/5649/assignments/207816?module_item_id=479146
-Dog CEO
-source: https://learning.flatironschool.com/courses/5649/assignments/207717?module_item_id=479144
+This website was constructed inspired from:
+[Toy Tale lab](https://learning.flatironschool.com/courses/5649/assignments/207816?module_item_id=479146)
+[Dog CEO](https://learning.flatironschool.com/courses/5649/assignments/207717?module_item_id=479144)
 
 # Layout and Functionality
 The recipes along with the pictures are stored inside the `db.json` file. To access this data using the JSON server please run `json-server -- watch db.json`.
