@@ -26,14 +26,15 @@ At the bottom of the page, there is a `form` with a `submit` option to collect e
 
 # Resources
 ## Background image 
-https://img.freepik.com/premium-photo/ingredients-homemade-pizza-white-wooden-background_35641-2959.jpg?w=1380
+[Freepik background](https://img.freepik.com/premium-photo/ingredients-homemade-pizza-white-wooden-background_35641-2959.jpg?w=1380)
 
 ## Styling
-www.w3schools.com
+[W3b School](www.w3schools.com)
 
 ## Layoyut 
-https://www.youtube.com/watch?v=z4wMSnrS0kE 
+[Youtube tutorial for layout](https://www.youtube.com/watch?v=z4wMSnrS0kE)
 ## Layout CSS Grid 
-https://www.youtube.com/watch?v=rV67qQahXAc
+[Youtube tutorial for layout](https://www.youtube.com/watch?v=rV67qQahXAc)
 
-## Turned personal food pictures into links using: https://imgur.com/
+## Pictures
+Turned personal food pictures into links using [Imgur](https://imgur.com/)
