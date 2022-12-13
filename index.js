@@ -5,32 +5,32 @@ document.addEventListener('DOMContentLoaded', ()=>{
 const breakfastBttn = document.querySelector('#br_button')
 breakfastBttn.addEventListener('click', ()=>{
     document.querySelector('#card_collection').innerHTML=''
-    fetch('http://localhost:3000/recipes')
+     fetch('http://localhost:3000/recipes')
     .then(res=>res.json())
-    .then(obj => obj.forEach(recipe => {
-        if(recipe.meal ==='breakfast')
-        appendFood(recipe)}))
+  //  .then(recipes => recipes.filter(recipe => {
+   //     recipe.meal =='breakfast'
+    //    appendFood(recipe)}))
+    .then(obj=> {const array = obj.filter(recipe => recipe.meal ==='breakfast')
+array.forEach(recipe => appendFood(recipe))})
 })
-        
+
 //lunch bttn
 const lunchBttn = document.querySelector('#lu_button')
 lunchBttn.addEventListener('click',()=>{
     document.querySelector('#card_collection').innerHTML=''
-    fetch('http://localhost:3000/recipes')
+     fetch('http://localhost:3000/recipes')
     .then(res=>res.json())
-    .then(obj => obj.forEach(recipe => {
-        if(recipe.meal ==='lunch')
-        appendFood(recipe)}))
+    .then(obj=> {const array = obj.filter(recipe => recipe.meal ==='lunch')
+    array.forEach(recipe => appendFood(recipe))})
 })
 //dinner bttn
 const dinnerBttn = document.querySelector('#dn_button')
 dinnerBttn.addEventListener('click', ()=>{
     document.querySelector('#card_collection').innerHTML=''
-    fetch('http://localhost:3000/recipes')
+     fetch('http://localhost:3000/recipes')
     .then(res=>res.json())
-    .then(obj => obj.forEach(recipe => {
-        if(recipe.meal ==='dinner')
-        appendFood(recipe)}))
+    .then(obj=> {const array = obj.filter(recipe => recipe.meal ==='dinner')
+    array.forEach(recipe => appendFood(recipe))})
 })
 //home button
 const homeButton = document.querySelector('#homeBttn')
