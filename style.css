@@ -3,7 +3,7 @@ body {
 }
 .header{
     width: 60%;
-    margin: 10rem auto 0 auto;
+    margin: auto;
     padding: 15px;
     background-color: whitesmoke;
     display: flex;
