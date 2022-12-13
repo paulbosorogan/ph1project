@@ -10,8 +10,10 @@ breakfastBttn.addEventListener('click', ()=>{
   //  .then(recipes => recipes.filter(recipe => {
    //     recipe.meal =='breakfast'
     //    appendFood(recipe)}))
-    .then(obj=> {const array = obj.filter(recipe => recipe.meal ==='breakfast')
-array.forEach(recipe => appendFood(recipe))})
+    .then(obj=> {
+        const array = obj.filter(recipe => recipe.meal ==='breakfast')
+        array.forEach(recipe => appendFood(recipe))
+    })
 })
 
 //lunch bttn
@@ -20,8 +22,9 @@ lunchBttn.addEventListener('click',()=>{
     document.querySelector('#card_collection').innerHTML=''
      fetch('http://localhost:3000/recipes')
     .then(res=>res.json())
-    .then(obj=> {const array = obj.filter(recipe => recipe.meal ==='lunch')
-    array.forEach(recipe => appendFood(recipe))})
+    .then(obj=> {
+        const array = obj.filter(recipe => recipe.meal ==='lunch')
+        array.forEach(recipe => appendFood(recipe))})
 })
 //dinner bttn
 const dinnerBttn = document.querySelector('#dn_button')
@@ -29,8 +32,9 @@ dinnerBttn.addEventListener('click', ()=>{
     document.querySelector('#card_collection').innerHTML=''
      fetch('http://localhost:3000/recipes')
     .then(res=>res.json())
-    .then(obj=> {const array = obj.filter(recipe => recipe.meal ==='dinner')
-    array.forEach(recipe => appendFood(recipe))})
+    .then(obj=> {
+        const array = obj.filter(recipe => recipe.meal ==='dinner')
+        array.forEach(recipe => appendFood(recipe))})
 })
 //home button
 const homeButton = document.querySelector('#homeBttn')
