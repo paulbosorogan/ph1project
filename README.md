@@ -2,7 +2,7 @@
 Welcome to Paul's Cooking Blog - a demo website designed to inspire you with some delicious recipes
 
 # Small Introduction 
-Cooking! This has become a hobby and a great passion of mine ever since I joined university. If I can remember well, I was always attracted to the kitchen, but never really leaned into it as growing up in the countryside the boys were not expected to spend time cooking. That for sure changed once I left home and mommy's boy had to learn how to cook in order to survive. It became such a relaxing activity that I enjoy doing daily. Picture this: I sometimes bake cookies in order to snap from monotony! The proof is right here. The pictures used to present each recipe are provided by myself and you can find more on my cooking instagram account: www.instagram.com/paulxcooks.
+Cooking! This has become a hobby and a great passion of mine ever since I joined university. If I can remember well, I was always attracted to the kitchen, but never really leaned into it as growing up in the countryside the boys were not expected to spend time cooking. That for sure changed once I left home and mommy's boy had to learn how to cook in order to survive. It became such a relaxing activity that I enjoy doing daily. Picture this: I sometimes bake cookies in order to snap from monotony! The proof is right here. The pictures used to present each recipe are provided by myself and you can find more on my cooking Instagram account: [paulxcooks](www.instagram.com/paulxcooks).
 
 # Curriculum help
 This website was constructed inspired from:
