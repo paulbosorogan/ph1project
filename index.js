@@ -17,21 +17,33 @@ function appendFood(recipe){
         <h4>${recipe.title}</h4>
         <p><b>Ingredients</b>: ${recipe.ingredients}</p>
         <p><b>Description</b>: ${recipe.description}
+        <br>
+        <p id="like-count">0 Likes</p>
+        <button id="like_button">Like</button>
     </div>
      <img src="${recipe.image}" alt="Photo with"">
 </p>
 </div>`
+const likeCount = card.querySelector('#like-count')
+const likeBttn = card.querySelector('#like_button')
+let counter = 0
+likeBttn.addEventListener('click', ()=>{
+    counter=counter+1
+    likeCount.textContent= counter + ' Likes'
+})
 
 cardCollection.appendChild(card)
 }
 function filterButtonFunction(e){
        cardCollection.innerHTML=''
        if(e.target.name !== "home"){
-        const array = recipes.filter(recipe => recipe.meal ===e.target.name)
-        array.forEach(recipe => appendFood(recipe))
+        const recipesArray = recipes.filter(recipe => recipe.meal ===e.target.name)
+        recipesArray.forEach(recipe => appendFood(recipe))
        }
         
 }
+
+
 
 document.addEventListener('DOMContentLoaded', ()=>{
 fetchRecipes()
@@ -53,6 +65,8 @@ dinnerBttn.addEventListener('click', filterButtonFunction)
 //home button
 const homeButton = document.querySelector('#homeBttn')
 homeButton.addEventListener('click', filterButtonFunction)
+
+//like bttn
 
 //submit eventListener
 const form = document.querySelector('form')
